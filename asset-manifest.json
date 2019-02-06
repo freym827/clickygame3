@@ -1,14 +1,14 @@
 {
-  "main.css": "/clickygame3/static/css/main.24aaccc3.chunk.css",
-  "main.js": "/clickygame3/static/js/main.b7e0bc88.chunk.js",
-  "main.js.map": "/clickygame3/static/js/main.b7e0bc88.chunk.js.map",
+  "main.css": "/clickygame3/static/css/main.5c90ec45.chunk.css",
+  "main.js": "/clickygame3/static/js/main.d39414f1.chunk.js",
+  "main.js.map": "/clickygame3/static/js/main.d39414f1.chunk.js.map",
   "static/js/1.5b265051.chunk.js": "/clickygame3/static/js/1.5b265051.chunk.js",
   "static/js/1.5b265051.chunk.js.map": "/clickygame3/static/js/1.5b265051.chunk.js.map",
   "runtime~main.js": "/clickygame3/static/js/runtime~main.1266f503.js",
   "runtime~main.js.map": "/clickygame3/static/js/runtime~main.1266f503.js.map",
   "static/media/Header.css": "/clickygame3/static/media/nickback2.949be400.jpg",
-  "static/css/main.24aaccc3.chunk.css.map": "/clickygame3/static/css/main.24aaccc3.chunk.css.map",
+  "static/css/main.5c90ec45.chunk.css.map": "/clickygame3/static/css/main.5c90ec45.chunk.css.map",
   "index.html": "/clickygame3/index.html",
-  "precache-manifest.18936d08023869ded88ac53434990fc4.js": "/clickygame3/precache-manifest.18936d08023869ded88ac53434990fc4.js",
+  "precache-manifest.a622f5f852d8befe312fbb1c62ff423d.js": "/clickygame3/precache-manifest.a622f5f852d8befe312fbb1c62ff423d.js",
   "service-worker.js": "/clickygame3/service-worker.js"
 }
